@@ -5,7 +5,7 @@
 - 🎓 B.Sc. Mechanical Engineering  
 - 🎓 M.Sc. Mechanical Engineering  
 - 🤖 M.Sc. Robotics and Automation *(Coming Soon)*  
-- 🧠 42 Candidate *(If you know, you know)*  
+- 🧠 42 Candidate
 - 💻 Programming Enthusiast  
 - 📈 Knowledgeable Investor
 
